@@ -10,5 +10,5 @@ Slider Exalt est une application WPF qui permet aux utilisateurs de contrôler u
 
 ## Prérequis
 
-- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) (version requise : 4.5 ou supérieure)
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) (version 8.0)
 - [Visual Studio](https://visualstudio.microsoft.com/) (recommandé pour le développement)
